@@ -10,19 +10,19 @@ Rewrite SimpAuth and start hosting it again.
 
 # About 
 
-YOU MUST HAVE MCRYPT FOR THE ENCRYPTION TO WORK
+YOU MUST HAVE MCRYPT FOR THE ENCRYPTION TO WORK  
 SimpAuth is a free and opensource authentication solution for .NET.  
-Check out our wiki [here](https://docs.simpauth.xyz) [DEPRECATED]
+Check out our wiki [here](https://docs.simpauth.xyz) [DEPRECATED]  
 
 # Credits
 
-Original Source Code - [REDACTED]
+Original Source Code - [REDACTED]  
 
 # Notes
 
-Sadly cAuth shut down aswell lmao. If you must, use AuthGG. But they do not have the best reputation!
+Sadly cAuth shut down aswell lmao. If you must, use AuthGG. But they do not have the best reputation!  
 
-If your looking for a good auth system for multiple languages try [REDACTED]. I've used them before and the owner is really helpful!
+If your looking for a good auth system for multiple languages try [REDACTED]. I've used them before and the owner is really helpful!  
 
 # Contact
 
